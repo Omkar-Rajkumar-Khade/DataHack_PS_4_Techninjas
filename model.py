@@ -71,7 +71,7 @@ def retrieval_qa_chain(llm, prompt, db):
 def load_llm():
     # Load the locally downloaded model here
     llm = CTransformers(
-        model="model/llama-2-7b-chat.ggmlv3.q4_K_S.bin",
+        model="llama-2-7b-chat.ggmlv3.q4_K_S.bin",
         model_type="llama",
         max_new_tokens=1024,
         max_tokens=1024,
@@ -110,3 +110,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
