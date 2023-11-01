@@ -96,7 +96,7 @@ def qa_bot():
 
 # Streamlit UI
 def main():
-    st.title("The Legal Law Lenz 🤖")
+    st.title("The Legal Law Lens 🤖")
 
     # Customizing the UI
     st.markdown("#### Ask Question about the Legal document that you have uploaded")
