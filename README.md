@@ -1,6 +1,6 @@
 # The Legal Law Lenz 🤖
 
-The Legal Law Lenz is a Python-based tool that allows you to interact with legal documents, retrieve information from them, and answer questions related to the content of these documents. This project combines various technologies and libraries, such as Streamlit, PyPDF2, Hugging Face Transformers, FAISS, and Langchain, to provide a user-friendly interface for querying and extracting information from legal texts.
+The Legal Law Lenz is a Python-based application that allows you to interact with legal documents, retrieve information from them, and answer questions related to the content of these documents. This project combines various technologies and libraries, such as Streamlit, PyPDF2, Hugging Face Transformers, FAISS, and Langchain, to provide a user-friendly interface for querying and extracting information from legal texts.
 
 ## Features
 - PDF Translation: Upload PDF documents, and the application can translate them into different languages using the Google Translate API.
